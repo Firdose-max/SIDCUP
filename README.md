@@ -37,4 +37,4 @@ Enhanced using **GSAP**, **ScrollTrigger**, and custom **mouse interactions** fo
 ## 📁 Run Locally
 
 ```bash
-git clone https://github.com/yourusername/sidcup-golf-clone.git
+git clone https://github.com/Firdose-max/SIDCUP.git
